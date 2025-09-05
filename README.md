@@ -1,9 +1,15 @@
-## 🌟 Mind & Data explorer 🧠📊
+## 🌟 Mind & Data Explorer 🧠📊
 
-### 👩‍💻 About me 
+### 👩‍💻 About me  
 
-Hello there! I'm Anaïs Hamel a passionate PhD student in the captivating realms of Psychology and Neurosciences, delving into the profound intersections of meditation, sleep, and memory in the aging process. My primary playground involves decoding the mysteries of the mind using neuroimaging data, including fMRI and EEG, combined with behavioral insights.
+Hello there! I'm Anaïs Hamel, PhD in Psychology and Neurosciences.  
+My research explored the fascinating intersections of meditation, sleep, and memory in the aging process, combining neuroimaging (fMRI, EEG) and behavioral data to better understand the human mind.  
 
-### 📊 Specialization
+After completing my doctorate, I am now focusing on **data science** and its applications. I’m passionate about extracting insights from complex datasets, building models, and applying computational approaches to solve real-world problems.  
 
-I primarily program in MATLAB and use R for statistical analyses. I specialize in graph theory analyses, employing it to decipher complex patterns in cognitive processes. Graph theory, to me, is not just a tool but a lens through which we can comprehend the complexities of cognitive function.
+### 📊 Specialization  
+
+- Programming: **Python**, **MATLAB**, and **R**  
+- Data Science & Machine Learning (with a growing experience on Kaggle)  
+- Graph theory and network analysis to better understand cognitive functioning
+- Neuroimaging (fMRI, EEG) & advanced statistical modeling  
